@@ -1,5 +1,5 @@
-# uts-information-gain
 # UTS Data Informasi Pengetahuan
+# uts-information-gain
 
 ## Implementasi Feature Selection Menggunakan Metode Information Gain
 
